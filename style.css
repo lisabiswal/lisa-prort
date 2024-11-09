@@ -137,7 +137,7 @@ nav ul li {
 }
 .black-jack{
     width: 40%;
-    height: 500px;
+    min-height: 500px;
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-style: none;
